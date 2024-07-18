@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8A6D4CED2BB1609D00F00D49 /* PuraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A6D4CEC2BB1609D00F00D49 /* PuraViewController.swift */; };
 		8A8D77C22BB1571400B362AB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A8D77C12BB1571400B362AB /* AppDelegate.swift */; };
 		8A8D77C42BB1571400B362AB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A8D77C32BB1571400B362AB /* SceneDelegate.swift */; };
 		8A8D77C62BB1571400B362AB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A8D77C52BB1571400B362AB /* ViewController.swift */; };
@@ -16,6 +17,14 @@
 		8A8D77D92BB1571500B362AB /* muspapuraTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A8D77D82BB1571500B362AB /* muspapuraTests.swift */; };
 		8A8D77E32BB1571500B362AB /* muspapuraUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A8D77E22BB1571500B362AB /* muspapuraUITests.swift */; };
 		8A8D77E52BB1571500B362AB /* muspapuraUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A8D77E42BB1571500B362AB /* muspapuraUITestsLaunchTests.swift */; };
+		8AB6EBA52BB485640070412F /* PuraDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB6EBA42BB485640070412F /* PuraDetailVC.swift */; };
+		8AB6EBA72BB4919A0070412F /* KegiatanDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB6EBA62BB4919A0070412F /* KegiatanDetailVC.swift */; };
+		8AB6EBA92BB4B0D50070412F /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB6EBA82BB4B0D50070412F /* LoginVC.swift */; };
+		8AB6EBAB2BB4B0E20070412F /* RegisVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB6EBAA2BB4B0E20070412F /* RegisVC.swift */; };
+		8AB6EBAD2BB4B44C0070412F /* PengurusHomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB6EBAC2BB4B44C0070412F /* PengurusHomeVC.swift */; };
+		8AB6EBAF2BB4B8C40070412F /* DetailPuraEditorVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB6EBAE2BB4B8C40070412F /* DetailPuraEditorVC.swift */; };
+		8AB6EBB12BB4C7600070412F /* AddEventVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB6EBB02BB4C7600070412F /* AddEventVC.swift */; };
+		8AEB90352BB46B8D0022D01C /* PurapovVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AEB90342BB46B8D0022D01C /* PurapovVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +45,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8A6D4CEC2BB1609D00F00D49 /* PuraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PuraViewController.swift; sourceTree = "<group>"; };
 		8A8D77BE2BB1571400B362AB /* muspapura.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = muspapura.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A8D77C12BB1571400B362AB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8A8D77C32BB1571400B362AB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +59,14 @@
 		8A8D77DE2BB1571500B362AB /* muspapuraUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = muspapuraUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A8D77E22BB1571500B362AB /* muspapuraUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = muspapuraUITests.swift; sourceTree = "<group>"; };
 		8A8D77E42BB1571500B362AB /* muspapuraUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = muspapuraUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8AB6EBA42BB485640070412F /* PuraDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PuraDetailVC.swift; sourceTree = "<group>"; };
+		8AB6EBA62BB4919A0070412F /* KegiatanDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KegiatanDetailVC.swift; sourceTree = "<group>"; };
+		8AB6EBA82BB4B0D50070412F /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		8AB6EBAA2BB4B0E20070412F /* RegisVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisVC.swift; sourceTree = "<group>"; };
+		8AB6EBAC2BB4B44C0070412F /* PengurusHomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PengurusHomeVC.swift; sourceTree = "<group>"; };
+		8AB6EBAE2BB4B8C40070412F /* DetailPuraEditorVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailPuraEditorVC.swift; sourceTree = "<group>"; };
+		8AB6EBB02BB4C7600070412F /* AddEventVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddEventVC.swift; sourceTree = "<group>"; };
+		8AEB90342BB46B8D0022D01C /* PurapovVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PurapovVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +121,15 @@
 				8A8D77C32BB1571400B362AB /* SceneDelegate.swift */,
 				8A8D77C52BB1571400B362AB /* ViewController.swift */,
 				8A8D77C72BB1571400B362AB /* Main.storyboard */,
+				8AB6EBB02BB4C7600070412F /* AddEventVC.swift */,
+				8AB6EBAE2BB4B8C40070412F /* DetailPuraEditorVC.swift */,
+				8AB6EBAC2BB4B44C0070412F /* PengurusHomeVC.swift */,
+				8AB6EBA82BB4B0D50070412F /* LoginVC.swift */,
+				8AB6EBAA2BB4B0E20070412F /* RegisVC.swift */,
+				8AB6EBA62BB4919A0070412F /* KegiatanDetailVC.swift */,
+				8AB6EBA42BB485640070412F /* PuraDetailVC.swift */,
+				8AEB90342BB46B8D0022D01C /* PurapovVC.swift */,
+				8A6D4CEC2BB1609D00F00D49 /* PuraViewController.swift */,
 				8A8D77CA2BB1571500B362AB /* Assets.xcassets */,
 				8A8D77CC2BB1571500B362AB /* LaunchScreen.storyboard */,
 				8A8D77CF2BB1571500B362AB /* Info.plist */,
@@ -258,9 +285,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8AB6EBAD2BB4B44C0070412F /* PengurusHomeVC.swift in Sources */,
+				8AB6EBAB2BB4B0E20070412F /* RegisVC.swift in Sources */,
+				8AB6EBAF2BB4B8C40070412F /* DetailPuraEditorVC.swift in Sources */,
+				8AEB90352BB46B8D0022D01C /* PurapovVC.swift in Sources */,
 				8A8D77C62BB1571400B362AB /* ViewController.swift in Sources */,
+				8AB6EBA92BB4B0D50070412F /* LoginVC.swift in Sources */,
 				8A8D77C22BB1571400B362AB /* AppDelegate.swift in Sources */,
+				8A6D4CED2BB1609D00F00D49 /* PuraViewController.swift in Sources */,
 				8A8D77C42BB1571400B362AB /* SceneDelegate.swift in Sources */,
+				8AB6EBA72BB4919A0070412F /* KegiatanDetailVC.swift in Sources */,
+				8AB6EBA52BB485640070412F /* PuraDetailVC.swift in Sources */,
+				8AB6EBB12BB4C7600070412F /* AddEventVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -444,11 +480,12 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = muspapura/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.travel";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -471,11 +508,12 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = muspapura/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.travel";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
